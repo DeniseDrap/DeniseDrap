@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeniseDrap
+- 👋 Hi, I’m @DenisaDrap
 - 👀 I’m interested in SQL and C#
 - 🌱 I’m currently learning SQL
 - 📫 My linkedIn profile: www.linkedin.com/in/denisa-drápalová-4600bb60
